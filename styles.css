@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+select {
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#weatherResult {
+    margin-top: 20px;
+    font-size: 18px;
+}
